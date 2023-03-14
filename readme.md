@@ -23,5 +23,5 @@ Airsol Real Estate
 ```
     
 ## 🔗 Links
-[![website](https://solana-final-hu2ygutj7-hzkali.vercel.app/)
+[![website](https://img.shields.io/badge/github-0A66C2?style=for-the-badge&logo=github&logoColor=red)](https://solana-final-hu2ygutj7-hzkali.vercel.app)
 [![website](https://img.shields.io/badge/youtube-0A66C2?style=for-the-badge&logo=youtube&logoColor=red)](https://youtu.be/eg8SmlmlJX4)
